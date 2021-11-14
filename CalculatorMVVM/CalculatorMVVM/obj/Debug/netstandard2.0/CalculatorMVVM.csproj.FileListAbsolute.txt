@@ -1,0 +1,16 @@
+C:\Users\Angel Rivero\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\CalculatorMVVM.csproj.AssemblyReference.cache
+C:\Users\Angel Rivero\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\CalculatorMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Rivero\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Angel Rivero\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Angel Rivero\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\View\CalculatorView.xaml.g.cs
+C:\Users\Angel Rivero\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\CalculatorMVVM.AssemblyInfoInputs.cache
+C:\Users\Angel Rivero\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\CalculatorMVVM.AssemblyInfo.cs
+C:\Users\Angel Rivero\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\CalculatorMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Angel Rivero\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\CalculatorMVVM.dll
+C:\Users\Angel Rivero\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\ref\CalculatorMVVM.dll
+C:\Users\Angel Rivero\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\CalculatorMVVM.pdb
+C:\Users\Angel Rivero\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\bin\Debug\netstandard2.0\CalculatorMVVM.deps.json
+C:\Users\Angel Rivero\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\bin\Debug\netstandard2.0\CalculatorMVVM.dll
+C:\Users\Angel Rivero\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\bin\Debug\netstandard2.0\ref\CalculatorMVVM.dll
+C:\Users\Angel Rivero\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\bin\Debug\netstandard2.0\CalculatorMVVM.pdb
+C:\Users\Angel Rivero\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\XamlC.stamp
